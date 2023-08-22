@@ -1,4 +1,5 @@
 # Coursera_HR_Analyitcs
+
 ## Introduction 
 In June 2023, I completed the second course of Google Data Analytics with course. Coursera is a renowned online learning platform that provides detailed knowledge on different tech courses.
 The dataset used in this analysis was provided by Coursera as part of learning and practicing pivot tables in Google sheet and Microsoft Excel, but having self-learnt Microsoft Power Bi, I decided to use the same dataset to display some Power Bi skills.
