@@ -75,13 +75,23 @@ I identified a common field in the tables which is ID and established relationsh
 **Question 2: What is the total number of applicants hired and how does it vary by month?**
 - Answer: The total number of applicants hired was **7,002** which accounts for **_21.5%_** of the total application received.
 
-![](Total_and_Percentage_Hired.png)              | ![](Applicants_Hired_by_Month.png)
+![](Total_and_Percentage_Hired.png)         ![](Applicants_Hired_by_Month.png)
 
 **Question 3: Calculate application according to geolocation.**
+- Answer: Applications from California accounts for **_27.53%_** of the total application received. Texas, with **_17.18%_** of the total application making ot the second highest.
+
+![](Application_by_Location.png)
+
+**Question 3: How many applications was received through easy apply and how many were hired?**
+![](Easy_Route_Hired.png)      ![](Easy_Route_Applicants_Hired.png)
+
+**How many applications was received through easy apply and how many were not hired?**
 
 
 
 ## Conclusion and Recommendation
+**Conclusion**
+**Recommendation**
 
 
 
