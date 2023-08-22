@@ -63,12 +63,18 @@ This measure counts and calculates the total number of applications received thr
 ## Data Modelling
 I identified a common field in the tables which is ID and established relationship between them.
 
-![](Data Modelling.png)
+![](Data_Modelling.png)
 
-Analysis and Visualization
-Answers to the problem statements.
-Question 1: What is the total number of applications received and how does it change over time?
-Answer: The total number of applications received was 32,596. 
+## Analysis and Visualization
+### Answers to the problem statements.
+**Question 1:** What is the total number of applications received and how does it change over time?
+- Answer: The total number of applications received was **32,596**
+  
+![](Total_Number_of_Application.png)
+
+Total Applications Recieved and how it changes by Month
+ ![](Total_Application_by_Month1.png)  
+  
 Question 2: What is the total number of applicants hired and how does it vary by month?
 Answer: The total number of applicants hired was 7,002 which accounts for 21.5% of the total application received.
 Question 3: Calculate application according to geolocation.
