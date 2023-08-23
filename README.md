@@ -71,8 +71,6 @@ I have included all the visuals in the report I created. The report contains onl
 
 ![](Dashboard.png)
 
-
-To interact with the report please click here
 ### Answers to the problem statements.
 ***
 **Question 1: What is the total number of applications received and how does it change over time?**
