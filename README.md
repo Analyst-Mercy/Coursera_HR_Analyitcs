@@ -66,32 +66,39 @@ I identified a common field in the tables which is ID and established relationsh
 ![](Data_Modelling.png)
 
 ## Analysis and Visualization
+I have included all the visuals in the report I created. The report contains only one page, to interact with it, please click here
 ### Answers to the problem statements.
+***
 **Question 1: What is the total number of applications received and how does it change over time?**
 - Answer: The total number of applications received was **32,596**
 
  ![](Total_Application_by_Month1.png)  
-  
+***
 **Question 2: What is the total number of applicants hired and how does it vary by month?**
 - Answer: The total number of applicants hired was **7,002** which accounts for **_21.5%_** of the total application received.
 
 ![](Total_and_Percentage_Hired.png)         ![](Applicants_Hired_by_Month.png)
-
+***
 **Question 3: Calculate application according to geolocation.**
-- Answer: Applications from California accounts for **_27.53%_** of the total application received. Texas, with **_17.18%_** of the total application making ot the second highest.
-
+- Answer: Applications from California is **8,974** and accounts for **_27.53%_** of the total application received. Texas, with **5,601** accounts for **_17.18%_** of the total application making it the second highest.
+  
 ![](Application_by_Location.png)
 
-**Question 3: How many applications was received through easy apply and how many were hired?**
-![](Easy_Route_Hired.png)      ![](Easy_Route_Applicants_Hired.png)
+***
+**Question 3: How many applications was received through easy apply and how many were hired? How does it vary  by Month**
+![](Easy_Route_Hired.png) ![](Easy_Route_Applicatants_Hired_by_Month.png)
 
-**How many applications was received through easy apply and how many were not hired?**
+***
 
+**Question 4: How many applications was received through easy apply and how many were not hired? How does it vary  by Month**
 
+![](Easy_Route_Not_Hired_by_Month.png)       ![](Easy_Route_Applicants_Not_Hired_by_Month.png)
 
+***
 ## Conclusion and Recommendation
-**Conclusion**
-**Recommendation**
+
+This data analytics documentation serves as a comprehensive resource that outlines the process of analysis and provides insights into data gathering, data transformation and data visualization techniques to enable effective decision-making. 
+
 
 
 
